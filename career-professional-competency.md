@@ -14,5 +14,7 @@
  
 ## top areas of growth:
  > Passionate about developing and delivering high quality code that is easy to read and maintain. Refactors code to improve the quality. Habitually applies agile development principles, displaying a solid understanding of agile processes, reports, and metrics, and how to use them.
+ 
   > Proactively foresees and mitigates potential blocking issues, while finding solutions to difficult problems by researching and collaborating with the team members. Remains solution focused but knows when to escalate.
+  
   > Actively seeks to understand customer impression of products and services to integrate feedback into project plan. Synthesizes different perspectives to create a relevant solutions that drives the business impact.
